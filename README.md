@@ -1,49 +1,45 @@
 # Hi, I'm Isaac Aduhene Armah 👋
 
-Technology Consultant and Software Engineer focused on product design, cloud delivery, and building reliable web and mobile systems for businesses and donor-funded projects.
+Technology Consultant and Software Engineer helping businesses turn ideas into reliable digital products, cloud-backed systems, and user-friendly mobile experiences.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-armah-82bb3a8b" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:armahi@live.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-armahi%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-armahi%40live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KobbyKnight&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/KobbyKnight?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/KobbyKnight?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ## About Me
 
-I bring 10+ years of experience across consulting, software delivery, and IT operations. I design and build products from requirements and architecture through deployment and support, with a strong focus on:
+I design, build, and support products across mobile, web, cloud, and integration layers. With 10+ years of experience spanning consulting, IT delivery, and software engineering, I work from requirements and architecture through deployment and ongoing support.
 
-- Flutter mobile apps backed by Laravel APIs
-- product strategy and cloud architecture for real-world business systems
-- integrations for payments, SMS, real-time messaging, and AI-powered document processing
-- clean APIs, secure systems, and resilient delivery for client and donor-funded projects
+My focus is on practical, business-aligned technology: clean APIs, secure systems, strong UX, and reliable delivery for clients across Ghana and donor-funded environments.
 
-## Core Expertise
+## Core Strengths
 
-- Mobile: Flutter, Dart, Riverpod, go_router, Firebase, Google Maps
-- Backend: Laravel, PHP, FastAPI, Django, Node.js, Express, CodeIgniter
-- Data: PostgreSQL, MySQL, Redis/Valkey, Supabase, Firebase Realtime Database
-- Cloud & Delivery: Laravel Cloud, AWS S3, GCP, Cloudflare, GitHub, Firebase App Distribution
-- Telephony: 3CX Call Flow Designer, call routing and conference configuration
-- AI & Integrations: OpenAI vision, Google Cloud Vision OCR, Hubtel SMS, Pusher, ERP integrations
-- Practice: product design, requirements analysis, technical documentation, security reviews, Agile delivery
+- Product design and technical strategy
+- Flutter mobile applications backed by Laravel APIs
+- Cloud deployment and infrastructure guidance
+- API design, integrations, and system architecture
+- AI-assisted workflows for document and image processing
+- Client-facing engineering and technical advisory
 
-## Tech Stack
+## Stack
 
 ### Mobile & App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-3A3A3A?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-### Backend & API
+### Backend & APIs
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,6 +56,7 @@ I bring 10+ years of experience across consulting, software delivery, and IT ope
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Web & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -68,37 +65,36 @@ I bring 10+ years of experience across consulting, software delivery, and IT ope
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Featured Work
+## Selected Work
 
 ### JOYKEM Order Management Platform
-A full order lifecycle platform for a Ghanaian roofing manufacturer, built with Flutter + Laravel + PostgreSQL + Redis.
+End-to-end product delivery for a Ghanaian roofing manufacturing business.
 
-- Sole developer from product design through live demo and rollout
-- Customer and field-staff mobile app plus office/admin web portal
-- 115+ Laravel API endpoints powering the business workflow
-- Role-based access for 15+ staff roles and branch-level scoping
-- AI-powered estimation through OCR and product matching
-- Real-time updates, push notifications, SMS, PDF invoicing and S3 document storage
-- Deployed on Laravel Cloud and Supabase
+- Built and shipped a Flutter customer and staff app plus a web admin portal
+- Delivered a Laravel API with 115+ endpoints serving the mobile and web platforms
+- Implemented role-based access with branch-level data scoping
+- Integrated payments, SMS, push notifications, Pusher realtime updates, and S3 document storage
+- Added AI-powered BOQ scanning and estimate prefill using OpenAI vision and PostgreSQL trigram search
+- Deployed on Laravel Cloud and Supabase with ongoing release management and monitoring
 
 ### Yipi Blind-Dating Platform
-Voice-first matching system built with 3CX and FastAPI/Django.
+Voice-first matching system built around 3CX call flow logic.
 
-- Designed and implemented the core 3CX call flow logic
-- Configured call relay and conference handling for reliable live matching
-- Built integrations around the call system and app backend
-- Solved key operational challenge of maintaining connected calls without drops
+- Designed and implemented a 3CX-based matching and call-flow solution
+- Configured call routing and conference settings for reliable live calls
+- Built backend integration with Python services for smooth platform operations
+- Solved the core challenge of keeping matched callers connected without drops
 
-### Client Infrastructure & Advisory
-- Domains, DNS, business email, Laravel Cloud and Cloudflare hosting
-- Infrastructure cost breakdowns and milestone-based proposals
-- Stakeholder management and user support for donor-funded systems
+### Client Infrastructure & Consulting
+- Managed domains, DNS, email, hosting, and cloud environments for business clients
+- Prepared infrastructure cost breakdowns, proposals, and milestone-based delivery plans
+- Supported donor-funded projects and public-sector systems through technical advisory, support, and change management
 
-## Experience Snapshot
+## Experience
 
-- Independent Software Engineer and Consultant — 2026 to present
+- Independent Software Engineer & Consultant — 2026 to present
 - Project Consultant (IT Officer) — PLANCO Consulting / CA Project Services Ltd — 2023 to 2026
-- Software Consultant and Developer — Sourcertz Technology Limited — 2023
+- Software Consultant & Developer — Sourcertz Technology Limited — 2023
 - Contract Software Developer — Various clients — 2019 to 2022
 - Software Engineer / Head of Software Development — Easy Creative Solutions — 2016 to 2019
 - National Service Personnel (IT) — Korle-Bu Teaching Hospital — 2017 to 2018
@@ -113,10 +109,10 @@ Voice-first matching system built with 3CX and FastAPI/Django.
 
 ## Current Focus
 
-- Building product-first mobile and web systems for African businesses
-- Architecting scalable Flutter + Laravel platforms
-- Integrating AI into practical workflows for document and image processing
-- Improving delivery quality, deployment practices, and client support
+- Building scalable mobile + web systems for African businesses
+- Turning business workflows into reliable software products
+- Leveraging AI to improve productivity and customer-facing operations
+- Helping teams deliver with strong architecture, better tooling, and cleaner deployment practices
 
 ## GitHub Stats
 
@@ -130,4 +126,4 @@ Voice-first matching system built with 3CX and FastAPI/Django.
 - LinkedIn: https://www.linkedin.com/in/isaac-armah-82bb3a8b
 - GitHub: https://github.com/KobbyKnight
 
-> I build practical systems, solve real business problems, and keep improving through product, cloud, and AI-driven delivery.
+> I build practical systems, solve real operational problems, and create products that are useful, maintainable, and scalable.
