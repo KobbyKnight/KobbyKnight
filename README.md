@@ -1,6 +1,6 @@
 # Hi, I'm Isaac Aduhene Armah 👋
 
-Technology Consultant and Software Engineer helping businesses turn ideas into reliable digital products, cloud-backed systems, and user-friendly mobile experiences.
+Technology Consultant and Software Engineer building reliable product experiences for businesses, public-sector systems, and growing digital operations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-armah-82bb3a8b" target="_blank">
@@ -18,20 +18,22 @@ Technology Consultant and Software Engineer helping businesses turn ideas into r
 
 ## About Me
 
-I design, build, and support products across mobile, web, cloud, and integration layers. With 10+ years of experience spanning consulting, IT delivery, and software engineering, I work from requirements and architecture through deployment and ongoing support.
+I help teams turn ideas into working products through strategy, product thinking, software engineering, and cloud-backed delivery.
 
-My focus is on practical, business-aligned technology: clean APIs, secure systems, strong UX, and reliable delivery for clients across Ghana and donor-funded environments.
+With 10+ years of experience across consulting, IT operations, and product development, I work across the full lifecycle of software: requirements, architecture, database design, build, deployment, integrations, support, and continuous improvement.
 
-## Core Strengths
+My specialisation is Flutter mobile apps backed by Laravel APIs, with integrations for payments, SMS, Firebase, realtime messaging, and AI-powered document processing.
 
-- Product design and technical strategy
-- Flutter mobile applications backed by Laravel APIs
-- Cloud deployment and infrastructure guidance
-- API design, integrations, and system architecture
-- AI-assisted workflows for document and image processing
-- Client-facing engineering and technical advisory
+## What I Do
 
-## Stack
+- Build product-ready mobile and web systems
+- Design and deliver Laravel APIs and backend services
+- Develop Flutter applications for real business workflows
+- Support cloud and hosting decisions across AWS, GCP, and managed deployments
+- Integrate AI into practical business operations for OCR, document automation, and processing
+- Advise clients on technical delivery, architecture, and deployment strategy
+
+## Core Stack
 
 ### Mobile & App Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -48,7 +50,7 @@ My focus is on practical, business-aligned technology: clean APIs, secure system
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Data, Cloud & DevOps
+### Data, Cloud & Delivery
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -65,30 +67,29 @@ My focus is on practical, business-aligned technology: clean APIs, secure system
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Selected Work
+## Selected Projects
 
 ### JOYKEM Order Management Platform
-End-to-end product delivery for a Ghanaian roofing manufacturing business.
+Full lifecycle business platform for a Ghanaian roofing manufacturer.
 
-- Built and shipped a Flutter customer and staff app plus a web admin portal
-- Delivered a Laravel API with 115+ endpoints serving the mobile and web platforms
-- Implemented role-based access with branch-level data scoping
-- Integrated payments, SMS, push notifications, Pusher realtime updates, and S3 document storage
-- Added AI-powered BOQ scanning and estimate prefill using OpenAI vision and PostgreSQL trigram search
-- Deployed on Laravel Cloud and Supabase with ongoing release management and monitoring
+- Built a Flutter mobile app and web admin dashboard for field staff and office operations
+- Delivered a Laravel API with 115+ endpoints powering the full order lifecycle
+- Integrated quotations, production workflows, invoicing, delivery tracking, payments, and complaint handling
+- Implemented role-based access for 15+ staff roles with branch-level data scoping
+- Added AI-driven BOQ reading and product matching using OpenAI vision and PostgreSQL trigram search
+- Integrated realtime updates, push notifications, SMS, S3 storage, and queue-based background processing
 
 ### Yipi Blind-Dating Platform
-Voice-first matching system built around 3CX call flow logic.
+Voice-first platform built around 3CX call flow logic.
 
-- Designed and implemented a 3CX-based matching and call-flow solution
-- Configured call routing and conference settings for reliable live calls
-- Built backend integration with Python services for smooth platform operations
-- Solved the core challenge of keeping matched callers connected without drops
+- Designed the core matching and call logic system in 3CX Call Flow Designer
+- Configured relay and conference support to maintain stable live connections between matched callers
+- Worked with Python backend services to support clean integration with the platform
 
-### Client Infrastructure & Consulting
-- Managed domains, DNS, email, hosting, and cloud environments for business clients
-- Prepared infrastructure cost breakdowns, proposals, and milestone-based delivery plans
-- Supported donor-funded projects and public-sector systems through technical advisory, support, and change management
+### Client Systems & Advisory
+- Managed hosting, domains, DNS, and business email setups for clients
+- Built and deployed systems for donor-funded and business-critical operations
+- Prepared technical proposals, infrastructure cost breakdowns, and milestone-based project planning
 
 ## Experience
 
@@ -99,7 +100,7 @@ Voice-first matching system built around 3CX call flow logic.
 - Software Engineer / Head of Software Development — Easy Creative Solutions — 2016 to 2019
 - National Service Personnel (IT) — Korle-Bu Teaching Hospital — 2017 to 2018
 
-## Education & Certifications
+## Education & Credentials
 
 - MSc Information Technology — KNUST
 - BSc Information Technology — GTUC
@@ -109,10 +110,10 @@ Voice-first matching system built around 3CX call flow logic.
 
 ## Current Focus
 
-- Building scalable mobile + web systems for African businesses
-- Turning business workflows into reliable software products
-- Leveraging AI to improve productivity and customer-facing operations
-- Helping teams deliver with strong architecture, better tooling, and cleaner deployment practices
+- Product-focused mobile and web systems for African businesses
+- Scalable Flutter + Laravel architecture
+- AI-assisted workflows for document processing and business automation
+- Practical software delivery with strong engineering and deployment discipline
 
 ## GitHub Stats
 
@@ -120,10 +121,10 @@ Voice-first matching system built around 3CX call flow logic.
   <img src="https://github-readme-stats.vercel.app/api?username=KobbyKnight&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-## Let’s Connect
+## Connect
 
 - Email: armahi@live.com
 - LinkedIn: https://www.linkedin.com/in/isaac-armah-82bb3a8b
 - GitHub: https://github.com/KobbyKnight
 
-> I build practical systems, solve real operational problems, and create products that are useful, maintainable, and scalable.
+> Building useful software, solving real operational problems, and designing systems that scale with the business.
